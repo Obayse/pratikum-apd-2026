@@ -28,7 +28,7 @@
 # print(status)
 
 # umur = int(input("masukkan umur kalian : "))
-umur = 16
-status = "kamu boleh masuk" if umur >= 16 else "kamu belum cukup umur
-print(status)
+# umur = 16
+# status = "kamu boleh masuk" if umur >= 16 else "kamu belum cukup umur
+# print(status)
 
